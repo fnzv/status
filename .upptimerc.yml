@@ -30,7 +30,7 @@ status-website:
   #baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Statuspage of some random services and stuff, if something is broken here maybe the internet is on fire"
+  introTitle: "Statuspage of some random services and stuff, if something is broken here maybe the internet or this CI is on fire"
   introMessage: Just looking 👀
   navbar:
     - title: Status
