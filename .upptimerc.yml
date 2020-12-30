@@ -28,7 +28,7 @@ status-website:
   cname: monitor.sa.mi.it
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.dictionary.com/e/wp-content/uploads/2018/03/This-is-Fine-300x300.jpg
   name: Upptime
   introTitle: "If something is broken here maybe the internet or this CI is on fire"
   introMessage: Just looking 👀
