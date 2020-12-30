@@ -19,7 +19,7 @@ sites:
   - name: AWS Console
     url: https://console.aws.amazon.com
   - name: Contaboo
-    url: https://my.contabo.com
+    url: https://contabo.com
 
 
 
