@@ -130,9 +130,9 @@
     "url": "https://contabo.com",
     "icon": "https://favicons.githubusercontent.com/contabo.com",
     "slug": "contaboo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,6 +141,8 @@
     "timeWeek": 883,
     "timeMonth": 883,
     "timeYear": 883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-03": 0
+    }
   }
 ]
