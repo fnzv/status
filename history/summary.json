@@ -5,17 +5,23 @@
     "icon": "https://favicons.githubusercontent.com/sa.mi.it",
     "slug": "sa-mi-it",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.48%",
     "time": 166,
     "timeDay": 167,
     "timeWeek": 248,
     "timeMonth": 175,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-12": 407,
+      "2021-03-02": 34,
+      "2021-02-18": 21,
+      "2021-02-05": 189,
+      "2021-01-03": 21
+    }
   },
   {
     "name": "sami.pw",
@@ -23,17 +29,23 @@
     "icon": "https://favicons.githubusercontent.com/sami.pw",
     "slug": "sami-pw",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.48%",
     "time": 168,
     "timeDay": 61,
     "timeWeek": 103,
     "timeMonth": 141,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-12": 407,
+      "2021-03-02": 34,
+      "2021-02-18": 21,
+      "2021-02-05": 189,
+      "2021-01-03": 21
+    }
   },
   {
     "name": "Telegram",
@@ -41,17 +53,23 @@
     "icon": "https://favicons.githubusercontent.com/web.telegram.org",
     "slug": "telegram",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.47%",
     "time": 367,
     "timeDay": 269,
     "timeWeek": 294,
     "timeMonth": 334,
     "timeYear": 367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-12": 407,
+      "2021-03-02": 34,
+      "2021-02-18": 21,
+      "2021-02-05": 189,
+      "2021-01-03": 21
+    }
   },
   {
     "name": "Whatsapp",
@@ -59,17 +77,23 @@
     "icon": "https://favicons.githubusercontent.com/web.whatsapp.com",
     "slug": "whatsapp",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.47%",
     "time": 162,
     "timeDay": 88,
     "timeWeek": 162,
     "timeMonth": 160,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-12": 407,
+      "2021-03-02": 34,
+      "2021-02-18": 21,
+      "2021-02-05": 189,
+      "2021-01-03": 21
+    }
   },
   {
     "name": "YT",
@@ -77,24 +101,30 @@
     "icon": "https://favicons.githubusercontent.com/web.whatsapp.com",
     "slug": "yt",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.47%",
     "time": 55,
     "timeDay": 49,
     "timeWeek": 46,
     "timeMonth": 45,
     "timeYear": 55,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-12": 407,
+      "2021-03-02": 34,
+      "2021-02-18": 21,
+      "2021-02-05": 189,
+      "2021-01-03": 21
+    }
   },
   {
     "name": "Twitter",
     "url": "https://twitter.com",
     "icon": "https://favicons.githubusercontent.com/twitter.com",
     "slug": "twitter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -115,17 +145,23 @@
     "icon": "https://favicons.githubusercontent.com/console.aws.amazon.com",
     "slug": "aws-console",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.47%",
     "time": 427,
     "timeDay": 143,
     "timeWeek": 290,
     "timeMonth": 374,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-12": 407,
+      "2021-03-02": 34,
+      "2021-02-18": 21,
+      "2021-02-05": 189,
+      "2021-01-03": 21
+    }
   },
   {
     "name": "Contaboo",
