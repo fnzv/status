@@ -76,19 +76,19 @@
     "url": "https://web.whatsapp.com",
     "icon": "https://favicons.githubusercontent.com/web.whatsapp.com",
     "slug": "yt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 59,
-    "timeDay": 50,
-    "timeWeek": 62,
+    "time": 60,
+    "timeDay": 63,
+    "timeWeek": 65,
     "timeMonth": 71,
-    "timeYear": 59,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2021-04-30": 0
+      "2021-04-30": 7
     }
   },
   {
