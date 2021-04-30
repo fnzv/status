@@ -76,18 +76,20 @@
     "url": "https://web.whatsapp.com",
     "icon": "https://favicons.githubusercontent.com/web.whatsapp.com",
     "slug": "yt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 60,
-    "timeDay": 77,
-    "timeWeek": 67,
-    "timeMonth": 72,
-    "timeYear": 60,
-    "dailyMinutesDown": {}
+    "time": 59,
+    "timeDay": 50,
+    "timeWeek": 62,
+    "timeMonth": 71,
+    "timeYear": 59,
+    "dailyMinutesDown": {
+      "2021-04-30": 0
+    }
   },
   {
     "name": "Twitter",
