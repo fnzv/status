@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/sa.mi.it",
     "slug": "sa-mi-it",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 215,
     "timeDay": 157,
     "timeWeek": 204,
     "timeMonth": 348,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 22
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://sami.pw",
     "icon": "https://favicons.githubusercontent.com/sami.pw",
     "slug": "sami-pw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 77,
-    "timeWeek": 254,
-    "timeMonth": 229,
+    "timeDay": 101,
+    "timeWeek": 238,
+    "timeMonth": 225,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Telegram",
