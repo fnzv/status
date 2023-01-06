@@ -61,19 +61,19 @@
     "url": "https://web.whatsapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "whatsapp",
-    "status": "down",
+    "status": "up",
     "uptime": "98.15%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 1984,
-    "timeWeek": 755,
-    "timeMonth": 353,
+    "timeDay": 1375,
+    "timeWeek": 689,
+    "timeMonth": 347,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-01-06": 0
+      "2023-01-06": 13
     }
   },
   {
@@ -81,19 +81,19 @@
     "url": "https://web.whatsapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "yt",
-    "status": "down",
+    "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 255,
-    "timeWeek": 178,
-    "timeMonth": 99,
+    "timeDay": 194,
+    "timeWeek": 166,
+    "timeMonth": 98,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2023-01-06": 0
+      "2023-01-06": 13
     }
   },
   {
