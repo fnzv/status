@@ -98,19 +98,19 @@
     "url": "https://twitter.com",
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 722,
-    "timeWeek": 599,
-    "timeMonth": 847,
+    "time": 403,
+    "timeDay": 628,
+    "timeWeek": 581,
+    "timeMonth": 834,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2023-02-08": 0
+      "2023-02-08": 17
     }
   },
   {
