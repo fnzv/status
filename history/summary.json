@@ -61,11 +61,11 @@
     "url": "https://web.whatsapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "whatsapp",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 181,
@@ -73,6 +73,7 @@
     "timeMonth": 206,
     "timeYear": 200,
     "dailyMinutesDown": {
+      "2023-04-19": 0,
       "2023-04-18": 15
     }
   },
@@ -81,9 +82,9 @@
     "url": "https://web.whatsapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "yt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +93,9 @@
     "timeWeek": 104,
     "timeMonth": 69,
     "timeYear": 64,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-19": 0
+    }
   },
   {
     "name": "Twitter",
