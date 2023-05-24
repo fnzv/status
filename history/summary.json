@@ -4,18 +4,20 @@
     "url": "https://sa.mi.it",
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
-    "status": "up",
+    "status": "down",
     "uptime": "90.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 164,
-    "timeWeek": 139,
-    "timeMonth": 136,
-    "timeYear": 163,
-    "dailyMinutesDown": {}
+    "timeDay": 123,
+    "timeWeek": 128,
+    "timeMonth": 133,
+    "timeYear": 162,
+    "dailyMinutesDown": {
+      "2023-05-24": 0
+    }
   },
   {
     "name": "sami.pw",
