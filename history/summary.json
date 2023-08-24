@@ -16,7 +16,7 @@
     "timeMonth": 145,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2023-08-24": 379,
+      "2023-08-24": 390,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -239,17 +239,17 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "5.56%",
-    "uptimeWeek": "7.60%",
-    "uptimeMonth": "68.51%",
+    "uptimeDay": "6.29%",
+    "uptimeWeek": "7.71%",
+    "uptimeMonth": "68.55%",
     "uptimeYear": "97.38%",
-    "time": 1156,
-    "timeDay": 1402,
-    "timeWeek": 1173,
-    "timeMonth": 1229,
-    "timeYear": 1280,
+    "time": 1155,
+    "timeDay": 1327,
+    "timeWeek": 1165,
+    "timeMonth": 1227,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2023-08-24": 379,
       "2023-08-23": 1360,
@@ -262,7 +262,7 @@
       "2023-08-16": 1251,
       "2023-08-15": 1301,
       "2023-08-14": 1264,
-      "2023-08-13": 285
+      "2023-08-13": 266
     }
   }
 ]
