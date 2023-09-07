@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.03%",
+    "uptimeYear": "71.01%",
     "time": 157,
     "timeDay": 150,
     "timeWeek": 118,
     "timeMonth": 131,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2023-09-07": 491,
+      "2023-09-07": 572,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -255,17 +255,17 @@
     "slug": "contaboo",
     "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "12.89%",
-    "uptimeWeek": "13.98%",
-    "uptimeMonth": "78.77%",
+    "uptimeDay": "13.46%",
+    "uptimeWeek": "14.06%",
+    "uptimeMonth": "78.73%",
     "uptimeYear": "98.23%",
-    "time": 1149,
-    "timeDay": 1079,
-    "timeWeek": 1006,
+    "time": 1150,
+    "timeDay": 1039,
+    "timeWeek": 1002,
     "timeMonth": 1169,
-    "timeYear": 1226,
+    "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-09-07": 459,
+      "2023-09-07": 532,
       "2023-09-06": 1221,
       "2023-09-05": 1165,
       "2023-09-04": 1207,
@@ -273,7 +273,7 @@
       "2023-09-02": 1346,
       "2023-09-01": 1124,
       "2023-08-31": 1281,
-      "2023-08-30": 189
+      "2023-08-30": 134
     }
   }
 ]
