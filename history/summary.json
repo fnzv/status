@@ -16,7 +16,7 @@
     "timeMonth": 133,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2023-09-09": 338,
+      "2023-09-09": 347,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
@@ -150,9 +150,9 @@
     "url": "https://web.telegram.org",
     "icon": "https://icons.duckduckgo.com/ip3/web.telegram.org.ico",
     "slug": "telegram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -162,6 +162,7 @@
     "timeMonth": 406,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2023-09-09": 0,
       "2023-01-25": 17,
       "2022-12-07": 16
     }
@@ -255,16 +256,16 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "9.16%",
-    "uptimeWeek": "12.64%",
-    "uptimeMonth": "78.22%",
-    "uptimeYear": "98.18%",
+    "uptimeDay": "9.71%",
+    "uptimeWeek": "12.72%",
+    "uptimeMonth": "78.28%",
+    "uptimeYear": "98.19%",
     "time": 1110,
-    "timeDay": 908,
-    "timeWeek": 966,
-    "timeMonth": 1166,
+    "timeDay": 886,
+    "timeWeek": 964,
+    "timeMonth": 1165,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2023-09-09": 338,
@@ -275,7 +276,7 @@
       "2023-09-04": 1207,
       "2023-09-03": 1302,
       "2023-09-02": 1346,
-      "2023-09-01": 408
+      "2023-09-01": 382
     }
   }
 ]
