@@ -12,8 +12,8 @@
     "uptimeYear": "66.20%",
     "time": 157,
     "timeDay": 145,
-    "timeWeek": 153,
-    "timeMonth": 126,
+    "timeWeek": 156,
+    "timeMonth": 124,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2023-09-24": 1391,
@@ -155,7 +155,7 @@
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 144,
-    "timeWeek": 133,
+    "timeWeek": 142,
     "timeMonth": 106,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -173,8 +173,8 @@
     "uptimeYear": "99.98%",
     "time": 423,
     "timeDay": 290,
-    "timeWeek": 365,
-    "timeMonth": 450,
+    "timeWeek": 373,
+    "timeMonth": 451,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2023-09-22": 35,
@@ -196,8 +196,8 @@
     "uptimeYear": "99.99%",
     "time": 207,
     "timeDay": 177,
-    "timeWeek": 183,
-    "timeMonth": 261,
+    "timeWeek": 184,
+    "timeMonth": 262,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2023-06-05": 55,
@@ -217,8 +217,8 @@
     "uptimeYear": "99.99%",
     "time": 110,
     "timeDay": 35,
-    "timeWeek": 44,
-    "timeMonth": 763,
+    "timeWeek": 43,
+    "timeMonth": 784,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2023-06-05": 54
@@ -238,7 +238,7 @@
     "time": 590,
     "timeDay": 312,
     "timeWeek": 298,
-    "timeMonth": 351,
+    "timeMonth": 353,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2023-07-05": 139,
@@ -263,7 +263,7 @@
     "time": 402,
     "timeDay": 281,
     "timeWeek": 295,
-    "timeMonth": 374,
+    "timeMonth": 372,
     "timeYear": 398,
     "dailyMinutesDown": {}
   },
@@ -272,16 +272,16 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "16.71%",
-    "uptimeWeek": "10.00%",
-    "uptimeMonth": "72.14%",
-    "uptimeYear": "97.68%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "16.74%",
+    "uptimeWeek": "10.01%",
+    "uptimeMonth": "72.46%",
+    "uptimeYear": "97.70%",
     "time": 1091,
-    "timeDay": 1201,
-    "timeWeek": 992,
-    "timeMonth": 1010,
+    "timeDay": 1183,
+    "timeWeek": 990,
+    "timeMonth": 1008,
     "timeYear": 1169,
     "dailyMinutesDown": {
       "2023-09-24": 1150,
@@ -293,7 +293,7 @@
       "2023-09-18": 1264,
       "2023-09-17": 1376,
       "2023-09-16": 1265,
-      "2023-09-15": 544
+      "2023-09-15": 403
     }
   }
 ]
