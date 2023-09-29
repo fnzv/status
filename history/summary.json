@@ -11,12 +11,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "64.83%",
     "time": 157,
-    "timeDay": 0,
-    "timeWeek": 156,
+    "timeDay": 138,
+    "timeWeek": 153,
     "timeMonth": 134,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2023-09-29": 1392,
+      "2023-09-29": 1393,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
@@ -277,17 +277,17 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "9.27%",
-    "uptimeWeek": "14.69%",
-    "uptimeMonth": "79.72%",
-    "uptimeYear": "98.31%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "9.36%",
+    "uptimeWeek": "14.70%",
+    "uptimeMonth": "79.87%",
+    "uptimeYear": "98.32%",
     "time": 1091,
-    "timeDay": 779,
-    "timeWeek": 841,
-    "timeMonth": 958,
-    "timeYear": 1138,
+    "timeDay": 761,
+    "timeWeek": 839,
+    "timeMonth": 957,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2023-09-29": 1259,
       "2023-09-28": 1129,
@@ -296,7 +296,7 @@
       "2023-09-25": 1200,
       "2023-09-24": 1199,
       "2023-09-23": 1359,
-      "2023-09-22": 325
+      "2023-09-22": 260
     }
   }
 ]
