@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
     "status": "down",
-    "uptime": "77.39%",
+    "uptime": "77.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 144,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2023-10-20": 569,
+      "2023-10-20": 577,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -298,15 +298,15 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "8.16%",
-    "uptimeWeek": "11.86%",
-    "uptimeMonth": "74.61%",
-    "uptimeYear": "97.88%",
+    "uptimeDay": "8.44%",
+    "uptimeWeek": "11.93%",
+    "uptimeMonth": "74.74%",
+    "uptimeYear": "97.89%",
     "time": 1064,
-    "timeDay": 1034,
-    "timeWeek": 989,
+    "timeDay": 1006,
+    "timeWeek": 986,
     "timeMonth": 957,
     "timeYear": 1111,
     "dailyMinutesDown": {
@@ -319,7 +319,7 @@
       "2023-10-14": 1257,
       "2023-10-13": 1308,
       "2023-10-12": 1255,
-      "2023-10-11": 430
+      "2023-10-11": 371
     }
   }
 ]
