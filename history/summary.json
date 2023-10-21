@@ -12,11 +12,11 @@
     "uptimeYear": "58.80%",
     "time": 157,
     "timeDay": 141,
-    "timeWeek": 158,
+    "timeWeek": 152,
     "timeMonth": 141,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2023-10-21": 1377,
+      "2023-10-21": 1390,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
@@ -182,7 +182,7 @@
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 43,
-    "timeWeek": 192,
+    "timeWeek": 208,
     "timeMonth": 110,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -200,7 +200,7 @@
     "uptimeYear": "99.98%",
     "time": 421,
     "timeDay": 316,
-    "timeWeek": 379,
+    "timeWeek": 356,
     "timeMonth": 376,
     "timeYear": 422,
     "dailyMinutesDown": {
@@ -223,7 +223,7 @@
     "uptimeYear": "99.99%",
     "time": 210,
     "timeDay": 57,
-    "timeWeek": 238,
+    "timeWeek": 248,
     "timeMonth": 226,
     "timeYear": 223,
     "dailyMinutesDown": {
@@ -244,7 +244,7 @@
     "uptimeYear": "99.99%",
     "time": 110,
     "timeDay": 38,
-    "timeWeek": 50,
+    "timeWeek": 53,
     "timeMonth": 50,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -264,7 +264,7 @@
     "uptimeYear": "99.63%",
     "time": 592,
     "timeDay": 354,
-    "timeWeek": 315,
+    "timeWeek": 280,
     "timeMonth": 313,
     "timeYear": 619,
     "dailyMinutesDown": {
@@ -289,7 +289,7 @@
     "uptimeYear": "100.00%",
     "time": 400,
     "timeDay": 305,
-    "timeWeek": 355,
+    "timeWeek": 356,
     "timeMonth": 358,
     "timeYear": 392,
     "dailyMinutesDown": {}
@@ -299,15 +299,15 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "14.47%",
-    "uptimeWeek": "12.91%",
-    "uptimeMonth": "76.08%",
-    "uptimeYear": "98.01%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "15.41%",
+    "uptimeWeek": "13.05%",
+    "uptimeMonth": "76.25%",
+    "uptimeYear": "98.02%",
     "time": 1075,
-    "timeDay": 978,
-    "timeWeek": 930,
+    "timeDay": 965,
+    "timeWeek": 931,
     "timeMonth": 954,
     "timeYear": 1107,
     "dailyMinutesDown": {
@@ -319,7 +319,7 @@
       "2023-10-16": 1259,
       "2023-10-15": 1347,
       "2023-10-14": 1257,
-      "2023-10-13": 496
+      "2023-10-13": 421
     }
   }
 ]
