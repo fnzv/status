@@ -1,7 +1,7 @@
 url: https://contabo.com
-status: up
-code: 200
-responseTime: 3587
-lastUpdated: 2023-11-11T20:47:51.548Z
+status: down
+code: 403
+responseTime: 588
+lastUpdated: 2023-11-11T20:55:55.169Z
 startTime: 2020-12-30T19:12:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
