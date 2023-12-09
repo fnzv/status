@@ -16,7 +16,7 @@
     "timeMonth": 134,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-12-09": 715,
+      "2023-12-09": 735,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -264,7 +264,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "whatsapp",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -350,17 +350,17 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "3.21%",
-    "uptimeWeek": "4.13%",
-    "uptimeMonth": "38.16%",
-    "uptimeYear": "94.85%",
-    "time": 1067,
-    "timeDay": 1339,
-    "timeWeek": 1064,
-    "timeMonth": 1057,
-    "timeYear": 1107,
+    "status": "down",
+    "uptime": "98.26%",
+    "uptimeDay": "4.60%",
+    "uptimeWeek": "4.33%",
+    "uptimeMonth": "38.58%",
+    "uptimeYear": "94.88%",
+    "time": 1068,
+    "timeDay": 1675,
+    "timeWeek": 1104,
+    "timeMonth": 1062,
+    "timeYear": 1108,
     "dailyMinutesDown": {
       "2023-12-09": 677,
       "2023-12-08": 1424,
@@ -382,7 +382,7 @@
       "2023-11-22": 1384,
       "2023-11-21": 1408,
       "2023-11-20": 1153,
-      "2023-11-19": 294
+      "2023-11-19": 110
     }
   }
 ]
