@@ -16,7 +16,7 @@
     "timeMonth": 153,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-02-17": 1392,
+      "2024-02-17": 1401,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -302,7 +302,7 @@
     "time": 116,
     "timeDay": 242,
     "timeWeek": 196,
-    "timeMonth": 118,
+    "timeMonth": 121,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -320,8 +320,8 @@
     "time": 419,
     "timeDay": 287,
     "timeWeek": 448,
-    "timeMonth": 422,
-    "timeYear": 422,
+    "timeMonth": 426,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2023-09-22": 35,
       "2023-09-09": 23
@@ -341,8 +341,8 @@
     "time": 232,
     "timeDay": 174,
     "timeWeek": 186,
-    "timeMonth": 217,
-    "timeYear": 232,
+    "timeMonth": 208,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2023-06-05": 55,
       "2023-04-18": 15
@@ -363,7 +363,7 @@
     "timeDay": 16,
     "timeWeek": 70,
     "timeMonth": 61,
-    "timeYear": 122,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2023-06-05": 54
     }
@@ -382,10 +382,10 @@
     "time": 995,
     "timeDay": 93,
     "timeWeek": 220,
-    "timeMonth": 136,
-    "timeYear": 1097,
+    "timeMonth": 138,
+    "timeYear": 1098,
     "dailyMinutesDown": {
-      "2024-02-17": 1392,
+      "2024-02-17": 1401,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -472,7 +472,7 @@
     "time": 378,
     "timeDay": 237,
     "timeWeek": 356,
-    "timeMonth": 306,
+    "timeMonth": 309,
     "timeYear": 382,
     "dailyMinutesDown": {}
   },
@@ -481,16 +481,16 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "3.07%",
-    "uptimeWeek": "3.82%",
-    "uptimeMonth": "32.43%",
-    "uptimeYear": "94.37%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "3.67%",
+    "uptimeWeek": "3.90%",
+    "uptimeMonth": "33.48%",
+    "uptimeYear": "94.46%",
     "time": 1099,
-    "timeDay": 637,
-    "timeWeek": 1007,
-    "timeMonth": 1070,
+    "timeDay": 617,
+    "timeWeek": 999,
+    "timeMonth": 1071,
     "timeYear": 1120,
     "dailyMinutesDown": {
       "2024-02-17": 1348,
@@ -514,7 +514,7 @@
       "2024-01-30": 1376,
       "2024-01-29": 1379,
       "2024-01-28": 1424,
-      "2024-01-27": 512
+      "2024-01-27": 52
     }
   }
 ]
