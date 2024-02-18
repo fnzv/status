@@ -13,10 +13,10 @@
     "time": 159,
     "timeDay": 207,
     "timeWeek": 146,
-    "timeMonth": 155,
+    "timeMonth": 154,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-02-18": 1391,
+      "2024-02-18": 1394,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -342,8 +342,8 @@
     "time": 232,
     "timeDay": 201,
     "timeWeek": 193,
-    "timeMonth": 208,
-    "timeYear": 233,
+    "timeMonth": 212,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2023-06-05": 55,
       "2023-04-18": 15
@@ -383,10 +383,10 @@
     "time": 995,
     "timeDay": 148,
     "timeWeek": 215,
-    "timeMonth": 138,
+    "timeMonth": 140,
     "timeYear": 1079,
     "dailyMinutesDown": {
-      "2024-02-18": 1391,
+      "2024-02-18": 1395,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -473,7 +473,7 @@
     "time": 379,
     "timeDay": 403,
     "timeWeek": 349,
-    "timeMonth": 312,
+    "timeMonth": 314,
     "timeYear": 382,
     "dailyMinutesDown": {}
   },
@@ -482,17 +482,17 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "2.94%",
-    "uptimeWeek": "3.56%",
-    "uptimeMonth": "34.54%",
-    "uptimeYear": "94.54%",
+    "status": "down",
+    "uptime": "98.27%",
+    "uptimeDay": "2.96%",
+    "uptimeWeek": "3.59%",
+    "uptimeMonth": "34.93%",
+    "uptimeYear": "94.58%",
     "time": 1099,
-    "timeDay": 811,
-    "timeWeek": 958,
+    "timeDay": 743,
+    "timeWeek": 949,
     "timeMonth": 1072,
-    "timeYear": 1120,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2024-02-18": 1358,
       "2024-02-17": 1387,
@@ -514,7 +514,7 @@
       "2024-02-01": 1419,
       "2024-01-31": 1390,
       "2024-01-30": 1376,
-      "2024-01-29": 993
+      "2024-01-29": 824
     }
   }
 ]
