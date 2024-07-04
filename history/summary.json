@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
     "status": "down",
-    "uptime": "61.83%",
+    "uptime": "61.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 166,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-07-03": 1437,
+      "2024-07-04": 86,
+      "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -379,8 +380,7 @@
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
-      "2023-07-06": 1440,
-      "2023-07-05": 1440
+      "2023-07-06": 1440
     }
   },
   {
@@ -468,7 +468,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.01%",
+    "uptimeYear": "58.03%",
     "time": 886,
     "timeDay": 323,
     "timeWeek": 237,
@@ -630,8 +630,7 @@
       "2023-12-17": 1334,
       "2023-11-18": 16,
       "2023-11-17": 33,
-      "2023-11-14": 16,
-      "2023-07-05": 139
+      "2023-11-14": 16
     }
   },
   {
@@ -658,18 +657,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
     "status": "down",
-    "uptime": "97.45%",
+    "uptime": "97.44%",
     "uptimeDay": "1.14%",
     "uptimeWeek": "2.32%",
     "uptimeMonth": "3.75%",
-    "uptimeYear": "91.03%",
+    "uptimeYear": "91.02%",
     "time": 1491,
     "timeDay": 2743,
     "timeWeek": 3984,
     "timeMonth": 3214,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2024-07-03": 1420,
+      "2024-07-04": 86,
+      "2024-07-03": 1423,
       "2024-07-02": 1432,
       "2024-07-01": 1355,
       "2024-06-30": 1432,
