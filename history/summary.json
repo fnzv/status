@@ -16,7 +16,7 @@
     "timeMonth": 179,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-10-07": 929,
+      "2024-10-07": 941,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -653,17 +653,17 @@
     "url": "https://contabo.com",
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "3.51%",
-    "uptimeWeek": "2.56%",
-    "uptimeMonth": "11.34%",
-    "uptimeYear": "92.61%",
+    "status": "down",
+    "uptime": "98.09%",
+    "uptimeDay": "4.28%",
+    "uptimeWeek": "2.67%",
+    "uptimeMonth": "13.37%",
+    "uptimeYear": "92.78%",
     "time": 1836,
-    "timeDay": 3042,
-    "timeWeek": 3096,
-    "timeMonth": 2663,
-    "timeYear": 1862,
+    "timeDay": 2776,
+    "timeWeek": 3033,
+    "timeMonth": 2653,
+    "timeYear": 1863,
     "dailyMinutesDown": {
       "2024-10-07": 879,
       "2024-10-06": 1433,
@@ -692,8 +692,7 @@
       "2024-09-13": 1348,
       "2024-09-12": 1420,
       "2024-09-11": 1406,
-      "2024-09-10": 1386,
-      "2024-09-09": 423
+      "2024-09-10": 921
     }
   }
 ]
