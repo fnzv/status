@@ -12,11 +12,12 @@
     "uptimeYear": "0.00%",
     "time": 153,
     "timeDay": 165,
-    "timeWeek": 153,
+    "timeWeek": 150,
     "timeMonth": 165,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-11-07": 1394,
+      "2024-11-08": 106,
+      "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
@@ -379,8 +380,7 @@
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
-      "2023-11-10": 1440,
-      "2023-11-09": 1440
+      "2023-11-10": 1440
     }
   },
   {
@@ -396,7 +396,7 @@
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 223,
-    "timeWeek": 137,
+    "timeWeek": 146,
     "timeMonth": 135,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -414,7 +414,7 @@
     "uptimeYear": "100.00%",
     "time": 409,
     "timeDay": 335,
-    "timeWeek": 395,
+    "timeWeek": 381,
     "timeMonth": 407,
     "timeYear": 408,
     "dailyMinutesDown": {}
@@ -432,7 +432,7 @@
     "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 184,
-    "timeWeek": 282,
+    "timeWeek": 290,
     "timeMonth": 292,
     "timeYear": 270,
     "dailyMinutesDown": {}
@@ -450,7 +450,7 @@
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 42,
-    "timeWeek": 71,
+    "timeWeek": 67,
     "timeMonth": 90,
     "timeYear": 78,
     "dailyMinutesDown": {}
@@ -468,7 +468,7 @@
     "uptimeYear": "58.31%",
     "time": 775,
     "timeDay": 292,
-    "timeWeek": 279,
+    "timeWeek": 273,
     "timeMonth": 275,
     "timeYear": 907,
     "dailyMinutesDown": {
@@ -654,18 +654,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/contabo.com.ico",
     "slug": "contaboo",
     "status": "down",
-    "uptime": "97.65%",
-    "uptimeDay": "7.04%",
+    "uptime": "97.64%",
+    "uptimeDay": "2.46%",
     "uptimeWeek": "2.77%",
     "uptimeMonth": "1.12%",
-    "uptimeYear": "90.93%",
+    "uptimeYear": "90.90%",
     "time": 2071,
-    "timeDay": 2577,
-    "timeWeek": 2987,
+    "timeDay": 3369,
+    "timeWeek": 2651,
     "timeMonth": 2425,
     "timeYear": 2112,
     "dailyMinutesDown": {
-      "2024-11-07": 1293,
+      "2024-11-08": 106,
+      "2024-11-07": 1339,
       "2024-11-06": 1401,
       "2024-11-05": 1424,
       "2024-11-04": 1420,
