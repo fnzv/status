@@ -18,8 +18,7 @@ sites:
     url: https://twitter.com
   - name: AWS Console
     url: https://console.aws.amazon.com
-  - name: Contaboo
-    url: https://contabo.com
+
 
 
 
