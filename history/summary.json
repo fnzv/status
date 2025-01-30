@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
     "status": "down",
-    "uptime": "53.15%",
+    "uptime": "53.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 158,
-    "timeDay": 162,
-    "timeWeek": 175,
+    "time": 159,
+    "timeDay": 247,
+    "timeWeek": 185,
     "timeMonth": 181,
-    "timeYear": 163,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-01-29": 104,
+      "2025-01-30": 103,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -379,8 +380,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 469,
-    "timeWeek": 195,
+    "timeDay": 60,
+    "timeWeek": 153,
     "timeMonth": 167,
     "timeYear": 135,
     "dailyMinutesDown": {}
@@ -413,9 +413,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 412,
-    "timeDay": 353,
-    "timeWeek": 456,
-    "timeMonth": 476,
+    "timeDay": 629,
+    "timeWeek": 459,
+    "timeMonth": 479,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2025-01-18": 17
@@ -433,10 +433,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 162,
-    "timeWeek": 267,
-    "timeMonth": 271,
-    "timeYear": 265,
+    "timeDay": 327,
+    "timeWeek": 264,
+    "timeMonth": 276,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -451,8 +451,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 38,
-    "timeWeek": 96,
+    "timeDay": 103,
+    "timeWeek": 88,
     "timeMonth": 98,
     "timeYear": 87,
     "dailyMinutesDown": {}
@@ -463,16 +463,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "89.69%",
+    "uptime": "89.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.11%",
-    "time": 638,
-    "timeDay": 283,
-    "timeWeek": 267,
+    "uptimeYear": "70.38%",
+    "time": 620,
+    "timeDay": 203,
+    "timeWeek": 238,
     "timeMonth": 252,
-    "timeYear": 222,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2024-05-17": 266,
       "2024-05-16": 1440,
@@ -580,8 +580,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -595,9 +594,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 249,
-    "timeWeek": 346,
+    "time": 324,
+    "timeDay": 331,
+    "timeWeek": 313,
     "timeMonth": 304,
     "timeYear": 318,
     "dailyMinutesDown": {}
