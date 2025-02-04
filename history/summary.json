@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
     "status": "down",
-    "uptime": "52.97%",
+    "uptime": "52.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 159,
-    "timeDay": 166,
-    "timeWeek": 156,
-    "timeMonth": 173,
+    "timeDay": 171,
+    "timeWeek": 146,
+    "timeMonth": 172,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-02-03": 106,
+      "2025-02-04": 105,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -379,8 +380,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 73,
-    "timeWeek": 174,
-    "timeMonth": 166,
+    "timeDay": 245,
+    "timeWeek": 197,
+    "timeMonth": 172,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -414,8 +414,8 @@
     "uptimeYear": "100.00%",
     "time": 413,
     "timeDay": 438,
-    "timeWeek": 465,
-    "timeMonth": 475,
+    "timeWeek": 446,
+    "timeMonth": 479,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2025-01-18": 17
@@ -427,16 +427,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "whatsapp",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 147,
-    "timeWeek": 218,
-    "timeMonth": 255,
-    "timeYear": 263,
+    "timeDay": 172,
+    "timeWeek": 196,
+    "timeMonth": 254,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -451,10 +451,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 101,
-    "timeWeek": 82,
-    "timeMonth": 95,
-    "timeYear": 86,
+    "timeDay": 36,
+    "timeWeek": 66,
+    "timeMonth": 93,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   },
   {
@@ -463,16 +463,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "89.72%",
+    "uptime": "89.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.48%",
-    "time": 603,
-    "timeDay": 224,
-    "timeWeek": 292,
-    "timeMonth": 258,
-    "timeYear": 225,
+    "uptimeYear": "71.75%",
+    "time": 586,
+    "timeDay": 237,
+    "timeWeek": 297,
+    "timeMonth": 260,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2024-05-17": 266,
       "2024-05-16": 1440,
@@ -575,8 +575,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -591,10 +590,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 250,
-    "timeWeek": 328,
-    "timeMonth": 304,
-    "timeYear": 319,
+    "timeDay": 280,
+    "timeWeek": 322,
+    "timeMonth": 306,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   }
 ]
