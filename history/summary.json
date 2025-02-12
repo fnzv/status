@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
     "status": "down",
-    "uptime": "52.69%",
+    "uptime": "52.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 158,
-    "timeDay": 148,
-    "timeWeek": 113,
-    "timeMonth": 165,
+    "timeDay": 188,
+    "timeWeek": 129,
+    "timeMonth": 166,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-02-11": 106,
+      "2025-02-12": 106,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -379,8 +380,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 176,
-    "timeWeek": 147,
-    "timeMonth": 171,
+    "timeDay": 211,
+    "timeWeek": 148,
+    "timeMonth": 176,
     "timeYear": 138,
     "dailyMinutesDown": {}
   },
@@ -413,10 +413,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 414,
-    "timeDay": 316,
-    "timeWeek": 394,
-    "timeMonth": 469,
-    "timeYear": 417,
+    "timeDay": 359,
+    "timeWeek": 396,
+    "timeMonth": 470,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2025-01-18": 17
     }
@@ -433,10 +433,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 254,
-    "timeWeek": 250,
-    "timeMonth": 252,
-    "timeYear": 265,
+    "timeDay": 479,
+    "timeWeek": 293,
+    "timeMonth": 257,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -451,8 +451,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 59,
-    "timeWeek": 65,
+    "timeDay": 58,
+    "timeWeek": 69,
     "timeMonth": 85,
     "timeYear": 86,
     "dailyMinutesDown": {}
@@ -463,15 +463,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "89.78%",
+    "uptime": "89.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.67%",
+    "uptimeYear": "73.94%",
     "time": 550,
-    "timeDay": 273,
-    "timeWeek": 246,
-    "timeMonth": 258,
+    "timeDay": 314,
+    "timeWeek": 248,
+    "timeMonth": 259,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2024-05-17": 266,
@@ -567,8 +567,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -583,9 +582,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 256,
-    "timeWeek": 299,
-    "timeMonth": 307,
+    "timeDay": 224,
+    "timeWeek": 292,
+    "timeMonth": 304,
     "timeYear": 318,
     "dailyMinutesDown": {}
   }
