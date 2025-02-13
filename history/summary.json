@@ -4,14 +4,14 @@
     "url": "https://sa.mi.it",
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
-    "status": "up",
+    "status": "down",
     "uptime": "52.61%",
-    "uptimeDay": "12.20%",
-    "uptimeWeek": "2.74%",
+    "uptimeDay": "13.45%",
+    "uptimeWeek": "2.92%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 158,
-    "timeDay": 151,
+    "timeDay": 152,
     "timeWeek": 142,
     "timeMonth": 153,
     "timeYear": 160,
@@ -390,9 +390,9 @@
     "slug": "sami-pw",
     "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "79.37%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "78.11%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.94%",
     "time": 134,
     "timeDay": 233,
@@ -400,7 +400,7 @@
     "timeMonth": 180,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-02-13": 297
+      "2025-02-13": 315
     }
   },
   {
