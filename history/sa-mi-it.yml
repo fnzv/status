@@ -1,7 +1,7 @@
 url: https://sa.mi.it
-status: up
-code: 200
-responseTime: 54
-lastUpdated: 2025-03-11T08:53:09.912Z
+status: down
+code: 403
+responseTime: 83
+lastUpdated: 2025-03-11T09:10:11.049Z
 startTime: 2020-12-30T18:46:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
