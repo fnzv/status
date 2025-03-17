@@ -4,14 +4,14 @@
     "url": "https://sa.mi.it",
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "30.81%",
-    "uptimeWeek": "18.93%",
-    "uptimeMonth": "79.38%",
-    "uptimeYear": "98.28%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "31.47%",
+    "uptimeWeek": "19.13%",
+    "uptimeMonth": "79.63%",
+    "uptimeYear": "98.30%",
     "time": 159,
-    "timeDay": 151,
+    "timeDay": 153,
     "timeWeek": 161,
     "timeMonth": 160,
     "timeYear": 160,
@@ -23,8 +23,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1127,
       "2025-03-11": 1214,
-      "2025-03-10": 905,
-      "2025-03-09": 48
+      "2025-03-10": 844
     }
   },
   {
@@ -44,7 +43,7 @@
     "timeMonth": 302,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-03-17": 1300,
+      "2025-03-17": 1322,
       "2025-03-16": 1259,
       "2025-03-15": 1368,
       "2025-03-14": 1423,
@@ -144,7 +143,7 @@
     "uptime": "88.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.77%",
+    "uptimeMonth": "29.72%",
     "uptimeYear": "77.64%",
     "time": 285,
     "timeDay": 195,
@@ -152,7 +151,7 @@
     "timeMonth": 260,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-03-17": 1328,
+      "2025-03-17": 1350,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
