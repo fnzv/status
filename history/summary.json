@@ -6,24 +6,24 @@
     "slug": "sa-mi-it",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "89.94%",
-    "uptimeWeek": "66.69%",
-    "uptimeMonth": "92.21%",
+    "uptimeDay": "91.63%",
+    "uptimeWeek": "66.77%",
+    "uptimeMonth": "92.18%",
     "uptimeYear": "99.35%",
     "time": 168,
-    "timeDay": 196,
-    "timeWeek": 177,
+    "timeDay": 201,
+    "timeWeek": 174,
     "timeMonth": 174,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-04-03": 32,
+      "2025-04-03": 24,
       "2025-04-02": 146,
       "2025-04-01": 337,
       "2025-03-31": 586,
       "2025-03-30": 683,
       "2025-03-29": 621,
       "2025-03-28": 677,
-      "2025-03-27": 333
+      "2025-03-27": 354
     }
   },
   {
@@ -31,15 +31,15 @@
     "url": "https://sami.pw",
     "icon": "https://icons.duckduckgo.com/ip3/sami.pw.ico",
     "slug": "sami-pw",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "53.49%",
-    "uptimeWeek": "26.52%",
-    "uptimeMonth": "59.80%",
-    "uptimeYear": "96.65%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "56.47%",
+    "uptimeWeek": "27.20%",
+    "uptimeMonth": "60.37%",
+    "uptimeYear": "96.70%",
     "time": 220,
-    "timeDay": 357,
-    "timeWeek": 331,
+    "timeDay": 379,
+    "timeWeek": 334,
     "timeMonth": 328,
     "timeYear": 245,
     "dailyMinutesDown": {
@@ -57,8 +57,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1373,
-      "2025-03-20": 1092,
-      "2025-03-19": 2
+      "2025-03-20": 842
     }
   },
   {
@@ -105,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "yt",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -134,7 +133,7 @@
     "timeMonth": 260,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-04-03": 585,
+      "2025-04-03": 687,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
