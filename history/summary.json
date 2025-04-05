@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "85.07%",
-    "uptimeWeek": "77.48%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.85%",
+    "uptimeDay": "85.63%",
+    "uptimeWeek": "77.89%",
+    "uptimeMonth": "92.58%",
+    "uptimeYear": "99.38%",
     "time": 167,
     "timeDay": 174,
     "timeWeek": 174,
     "timeMonth": 174,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-04-05": 131,
+      "2025-04-05": 123,
       "2025-04-04": 135,
       "2025-04-03": 79,
       "2025-04-02": 146,
@@ -24,7 +24,7 @@
       "2025-03-31": 586,
       "2025-03-30": 683,
       "2025-03-29": 621,
-      "2025-03-28": 484
+      "2025-03-28": 541
     }
   },
   {
@@ -32,14 +32,14 @@
     "url": "https://sami.pw",
     "icon": "https://icons.duckduckgo.com/ip3/sami.pw.ico",
     "slug": "sami-pw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "50.45%",
-    "uptimeWeek": "40.44%",
-    "uptimeMonth": "85.32%",
+    "uptimeDay": "52.73%",
+    "uptimeWeek": "40.77%",
+    "uptimeMonth": "85.37%",
     "uptimeYear": "98.78%",
     "time": 227,
-    "timeDay": 313,
+    "timeDay": 311,
     "timeWeek": 325,
     "timeMonth": 325,
     "timeYear": 252,
@@ -51,7 +51,7 @@
       "2025-04-01": 953,
       "2025-03-31": 1165,
       "2025-03-30": 1197,
-      "2025-03-29": 926
+      "2025-03-29": 904
     }
   },
   {
@@ -127,7 +127,7 @@
     "timeMonth": 258,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-04-05": 836,
+      "2025-04-05": 869,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
