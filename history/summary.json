@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "83.38%",
-    "uptimeWeek": "79.57%",
+    "uptimeWeek": "79.65%",
     "uptimeMonth": "92.33%",
     "uptimeYear": "99.36%",
     "time": 167,
@@ -33,15 +33,15 @@
     "url": "https://sami.pw",
     "icon": "https://icons.duckduckgo.com/ip3/sami.pw.ico",
     "slug": "sami-pw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "55.54%",
-    "uptimeWeek": "44.58%",
-    "uptimeMonth": "87.01%",
-    "uptimeYear": "98.92%",
+    "uptimeDay": "55.53%",
+    "uptimeWeek": "44.66%",
+    "uptimeMonth": "87.13%",
+    "uptimeYear": "98.93%",
     "time": 233,
-    "timeDay": 303,
-    "timeWeek": 319,
+    "timeDay": 301,
+    "timeWeek": 318,
     "timeMonth": 323,
     "timeYear": 253,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
       "2025-04-02": 483,
       "2025-04-01": 953,
       "2025-03-31": 1165,
-      "2025-03-30": 894
+      "2025-03-30": 841
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 258,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-04-06": 454,
+      "2025-04-06": 462,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
