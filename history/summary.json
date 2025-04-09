@@ -11,8 +11,8 @@
     "uptimeMonth": "92.48%",
     "uptimeYear": "99.37%",
     "time": 167,
-    "timeDay": 174,
-    "timeWeek": 177,
+    "timeDay": 182,
+    "timeWeek": 176,
     "timeMonth": 177,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -36,23 +36,23 @@
     "slug": "sami-pw",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "51.76%",
-    "uptimeWeek": "58.75%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "60.62%",
+    "uptimeWeek": "58.29%",
+    "uptimeMonth": "90.40%",
+    "uptimeYear": "99.20%",
     "time": 241,
-    "timeDay": 332,
-    "timeWeek": 301,
+    "timeDay": 336,
+    "timeWeek": 300,
     "timeMonth": 308,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-04-08": 690,
+      "2025-04-08": 684,
       "2025-04-07": 536,
       "2025-04-06": 643,
       "2025-04-05": 597,
       "2025-04-04": 707,
       "2025-04-03": 626,
-      "2025-04-02": 360
+      "2025-04-02": 412
     }
   },
   {
@@ -117,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "down",
-    "uptime": "87.37%",
+    "uptime": "87.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -128,7 +128,8 @@
     "timeMonth": 249,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-04-08": 1402,
+      "2025-04-09": 116,
+      "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -209,8 +210,7 @@
       "2024-04-13": 1440,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
-      "2024-04-10": 1440,
-      "2024-04-09": 1440
+      "2024-04-10": 1440
     }
   },
   {
