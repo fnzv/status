@@ -92,19 +92,19 @@
     "url": "https://web.whatsapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/web.whatsapp.com.ico",
     "slug": "whatsapp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 277,
-    "timeDay": 343,
-    "timeWeek": 264,
-    "timeMonth": 363,
+    "timeDay": 300,
+    "timeWeek": 263,
+    "timeMonth": 360,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-04-23": 0
+      "2025-04-23": 51
     }
   },
   {
@@ -131,7 +131,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "down",
-    "uptime": "86.59%",
+    "uptime": "86.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -142,7 +142,7 @@
     "timeMonth": 232,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-04-23": 143,
+      "2025-04-23": 194,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
