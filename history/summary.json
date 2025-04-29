@@ -4,18 +4,19 @@
     "url": "https://sa.mi.it",
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.03%",
+    "uptimeMonth": "83.35%",
     "uptimeYear": "98.59%",
     "time": 169,
-    "timeDay": 349,
-    "timeWeek": 370,
-    "timeMonth": 178,
+    "timeDay": 285,
+    "timeWeek": 352,
+    "timeMonth": 180,
     "timeYear": 170,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
       "2025-04-14": 1195,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -32,7 +33,7 @@
       "2025-04-01": 337,
       "2025-03-31": 586,
       "2025-03-30": 683,
-      "2025-03-29": 141
+      "2025-03-29": 118
     }
   },
   {
@@ -40,18 +41,19 @@
     "url": "https://sami.pw",
     "icon": "https://icons.duckduckgo.com/ip3/sami.pw.ico",
     "slug": "sami-pw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "80.58%",
-    "uptimeYear": "98.38%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "80.64%",
+    "uptimeYear": "98.39%",
     "time": 248,
-    "timeDay": 463,
-    "timeWeek": 793,
+    "timeDay": 271,
+    "timeWeek": 721,
     "timeMonth": 322,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
       "2025-04-23": 90,
       "2025-04-14": 1246,
       "2025-04-13": 1440,
@@ -64,7 +66,7 @@
       "2025-04-06": 643,
       "2025-04-05": 597,
       "2025-04-04": 707,
-      "2025-04-03": 213
+      "2025-04-03": 187
     }
   },
   {
@@ -131,7 +133,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "down",
-    "uptime": "86.26%",
+    "uptime": "86.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -142,7 +144,7 @@
     "timeMonth": 233,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-04-29": 121,
+      "2025-04-29": 1366,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
