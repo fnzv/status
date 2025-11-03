@@ -16,7 +16,7 @@
     "timeMonth": 225,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-11-03": 1396,
+      "2025-11-03": 1407,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -171,7 +171,7 @@
     "timeMonth": 122,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-11-03": 1396,
+      "2025-11-03": 1407,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -559,19 +559,19 @@
     "url": "https://console.aws.amazon.com",
     "icon": "https://icons.duckduckgo.com/ip3/console.aws.amazon.com.ico",
     "slug": "aws-console",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 0,
-    "timeWeek": 320,
-    "timeMonth": 364,
+    "time": 339,
+    "timeDay": 253,
+    "timeWeek": 310,
+    "timeMonth": 361,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-11-03": 1
+      "2025-11-03": 11
     }
   }
 ]
