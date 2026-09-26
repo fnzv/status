@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.91%",
+    "uptimeYear": "39.19%",
     "time": 245,
-    "timeDay": 333,
-    "timeWeek": 309,
+    "timeDay": 190,
+    "timeWeek": 287,
     "timeMonth": 285,
     "timeYear": 245,
     "dailyMinutesDown": {
@@ -237,8 +237,7 @@
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
-      "2025-09-27": 1440,
-      "2025-09-26": 1440
+      "2025-09-27": 1440
     }
   },
   {
@@ -251,12 +250,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "38.91%",
+    "uptimeYear": "39.19%",
     "time": 235,
-    "timeDay": 472,
-    "timeWeek": 438,
-    "timeMonth": 408,
-    "timeYear": 211,
+    "timeDay": 230,
+    "timeWeek": 419,
+    "timeMonth": 405,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2026-05-06": 237,
       "2026-05-05": 1440,
@@ -479,8 +478,7 @@
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
-      "2025-09-27": 1440,
-      "2025-09-26": 1440
+      "2025-09-27": 1440
     }
   },
   {
@@ -495,9 +493,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 426,
-    "timeDay": 382,
-    "timeWeek": 424,
-    "timeMonth": 396,
+    "timeDay": 278,
+    "timeWeek": 391,
+    "timeMonth": 394,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2025-12-30": 85,
@@ -516,9 +514,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 256,
+    "timeDay": 104,
     "timeWeek": 155,
-    "timeMonth": 276,
+    "timeMonth": 272,
     "timeYear": 271,
     "dailyMinutesDown": {}
   },
@@ -534,9 +532,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 120,
+    "timeDay": 49,
     "timeWeek": 97,
-    "timeMonth": 198,
+    "timeMonth": 195,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -546,16 +544,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "84.56%",
+    "uptime": "84.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 432,
-    "timeDay": 437,
-    "timeWeek": 330,
-    "timeMonth": 352,
-    "timeYear": 480,
+    "timeDay": 523,
+    "timeWeek": 380,
+    "timeMonth": 361,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2025-11-18": 168,
       "2025-12-28": 34,
@@ -574,9 +572,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 707,
-    "timeWeek": 424,
-    "timeMonth": 422,
+    "timeDay": 423,
+    "timeWeek": 426,
+    "timeMonth": 425,
     "timeYear": 385,
     "dailyMinutesDown": {}
   }
