@@ -4,16 +4,16 @@
     "url": "https://sa.mi.it",
     "icon": "https://icons.duckduckgo.com/ip3/sa.mi.it.ico",
     "slug": "sa-mi-it",
-    "status": "up",
-    "uptime": "85.84%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "85.85%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.41%",
+    "uptimeYear": "55.59%",
     "time": 250,
-    "timeDay": 252,
-    "timeWeek": 271,
-    "timeMonth": 286,
+    "timeDay": 169,
+    "timeWeek": 248,
+    "timeMonth": 280,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2026-05-06": 236,
@@ -178,7 +178,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2026-11-25": 0
     }
   },
   {
@@ -187,11 +187,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sami.pw.ico",
     "slug": "sami-pw",
     "status": "up",
-    "uptime": "85.80%",
+    "uptime": "85.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.41%",
+    "uptimeYear": "55.59%",
     "time": 231,
     "timeDay": 264,
     "timeWeek": 408,
@@ -359,8 +359,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -416,7 +415,7 @@
     "time": 155,
     "timeDay": 165,
     "timeWeek": 145,
-    "timeMonth": 165,
+    "timeMonth": 164,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -426,7 +425,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "84.99%",
+    "uptime": "85.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -434,8 +433,8 @@
     "time": 441,
     "timeDay": 131,
     "timeWeek": 241,
-    "timeMonth": 232,
-    "timeYear": 489,
+    "timeMonth": 231,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2025-12-28": 34,
       "2026-01-16": 58
@@ -455,7 +454,7 @@
     "time": 385,
     "timeDay": 425,
     "timeWeek": 342,
-    "timeMonth": 354,
+    "timeMonth": 357,
     "timeYear": 385,
     "dailyMinutesDown": {}
   }
